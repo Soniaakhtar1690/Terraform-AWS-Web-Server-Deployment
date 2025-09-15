@@ -19,12 +19,14 @@ Architecture Diagram
 <img width="3638" height="1688" alt="Blank diagram" src="https://github.com/user-attachments/assets/4113033c-b81f-415d-898e-542d3cf9f82d" />
 
 **Technologies Used**
+
 -->Terraform – Infrastructure as Code (IaC)
 -->AWS Services: VPC, Subnet, Internet Gateway, Route Table, Security Group, EC2, Key Pair
 -->Python & Flask – Sample web application
 -->Provisioners: file and remote-exec
 
 **Prerequisites**
+
 -->Terraform installed (Install Terraform)
 -->AWS account with IAM permissions
 -->SSH key pair (id_rsa and id_rsa.pub)
